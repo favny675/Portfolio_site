@@ -1,0 +1,2 @@
+👋 Hi, I’m Favour <img width="1920" height="1080" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/68abd79e-eea5-41d2-a222-abe901a8f89f" />
+Fullstack Developer & HR Systems BuilderI build modern web solutions that solve real business problems. I’m passionate about creating scalable web applications, intelligent HR systems, and practical digital solutions using modern fullstack technologies.
